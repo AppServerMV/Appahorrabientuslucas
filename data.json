@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T16:25:43.798Z",
+    "ultima_actualizacion": "2025-09-29T16:25:57.707Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -27,8 +27,8 @@
       "nombre": "DAYANA",
       "apellido": "CORDOVA",
       "email": "02DAYANACORDOVA02@GMAIL.COM",
-      "telefono": null,
-      "direccion": null,
+      "telefono": "+593 993452899",
+      "direccion": "CALLE 456",
       "fecha_registro": "2025-09-29T16:25:10.684Z"
     }
   ],
