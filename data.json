@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T18:59:56.563Z",
+    "ultima_actualizacion": "2025-09-29T18:59:58.506Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -41,19 +41,5 @@
       "categoria": "producto"
     }
   ],
-  "ordenes": [
-    {
-      "id": "id_q6rdehfdj",
-      "cliente_id": "id_dn30ntl90",
-      "descripcion": "stiktrs troqueladso 1 metro",
-      "prioridad": "alta",
-      "productos": [
-        "id_tkedhccvl"
-      ],
-      "presupuesto": 10000,
-      "fecha_limite": "2025-09-24",
-      "fecha_creacion": "2025-09-29T14:22:32.332Z",
-      "estado": "completada"
-    }
-  ]
+  "ordenes": []
 }
