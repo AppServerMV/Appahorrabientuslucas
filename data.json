@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-28T00:00:00.000Z",
+    "ultima_actualizacion": "2025-09-29T02:53:49.437Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -12,7 +12,17 @@
       "impuesto": 19
     }
   },
-  "clientes": [],
+  "clientes": [
+    {
+      "id": "id_dn30ntl90",
+      "nombre": "Manuel ",
+      "apellido": "Perea",
+      "email": "Manuel.a.p.v@hotmail.com",
+      "telefono": "+593 993452899",
+      "direccion": "Cerro Navia",
+      "fecha_registro": "2025-09-29T02:53:32.934Z"
+    }
+  ],
   "productos": [],
   "ordenes": []
 }
