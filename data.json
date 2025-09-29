@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T19:08:47.781Z",
+    "ultima_actualizacion": "2025-09-29T19:10:22.548Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -26,9 +26,9 @@
   "productos": [
     {
       "id": "id_tkedhccvl",
-      "nombre": "Stikers",
-      "descripcion": "Stikers troquelados",
-      "precio": 10000,
+      "nombre": "Stickers Troquelados",
+      "descripcion": "Stikers impresos en PVC adhesivo 1x1M ",
+      "precio": 5000,
       "categoria": "producto"
     }
   ],
