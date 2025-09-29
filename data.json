@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T03:00:59.253Z",
+    "ultima_actualizacion": "2025-09-29T14:21:55.856Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -23,6 +23,14 @@
       "fecha_registro": "2025-09-29T02:53:32.934Z"
     }
   ],
-  "productos": [],
+  "productos": [
+    {
+      "id": "id_tkedhccvl",
+      "nombre": "Stikers",
+      "descripcion": "Stikers troquelados",
+      "precio": 10000,
+      "categoria": "producto"
+    }
+  ],
   "ordenes": []
 }
