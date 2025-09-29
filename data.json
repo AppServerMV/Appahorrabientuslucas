@@ -1,0 +1,152 @@
+{
+  "config": {
+    "companyName": "Ahorra bien tus lucas Grafic",
+    "currency": "CLP",
+    "whatsappNumber": "",
+    "whatsappMessage": "Hola, me interesa información sobre tus servicios de diseño gráfico e impresión.",
+    "logoUrl": "https://raw.githubusercontent.com/tuusuario/turepo/main/logo.png"
+  },
+  "appData": {
+    "orders": [
+      {
+        "id": 1,
+        "clientName": "María González",
+        "clientPhone": "+56912345678",
+        "clientEmail": "maria@example.com",
+        "productId": 1,
+        "productName": "Stickers Vinilo",
+        "quantity": 50,
+        "date": "2023-05-15",
+        "dueDate": "2023-05-20",
+        "description": "Stickers redondos para emprendimiento",
+        "total": 12000,
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "clientName": "Carlos López",
+        "clientPhone": "+56987654321",
+        "clientEmail": "carlos@example.com",
+        "productId": 2,
+        "productName": "Tazas Sublimación",
+        "quantity": 10,
+        "date": "2023-05-14",
+        "dueDate": "2023-05-18",
+        "description": "Tazas con logo de empresa",
+        "total": 8500,
+        "status": "in-progress"
+      },
+      {
+        "id": 3,
+        "clientName": "Tienda Elegante",
+        "clientPhone": "+56911223344",
+        "clientEmail": "tienda@example.com",
+        "productId": 4,
+        "productName": "Etiquetas Producto",
+        "quantity": 200,
+        "date": "2023-05-13",
+        "dueDate": "2023-05-17",
+        "description": "Etiquetas para productos de belleza",
+        "total": 32075,
+        "status": "completed"
+      }
+    ],
+    "clients": [
+      {
+        "name": "María González",
+        "phone": "+56912345678",
+        "email": "maria@example.com",
+        "firstOrder": "2023-05-15",
+        "totalOrders": 1,
+        "totalSpent": 12000
+      },
+      {
+        "name": "Carlos López",
+        "phone": "+56987654321",
+        "email": "carlos@example.com",
+        "firstOrder": "2023-05-14",
+        "totalOrders": 1,
+        "totalSpent": 8500
+      },
+      {
+        "name": "Tienda Elegante",
+        "phone": "+56911223344",
+        "email": "tienda@example.com",
+        "firstOrder": "2023-05-13",
+        "totalOrders": 1,
+        "totalSpent": 32075
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Stickers Vinilo",
+        "description": "Stickers de vinilo de alta calidad",
+        "price": 12000,
+        "category": "sticker"
+      },
+      {
+        "id": 2,
+        "name": "Tazas Sublimación",
+        "description": "Tazas personalizadas con técnica de sublimación",
+        "price": 8500,
+        "category": "mug"
+      },
+      {
+        "id": 3,
+        "name": "Playeras Estampadas",
+        "description": "Playeras con estampado personalizado",
+        "price": 15000,
+        "category": "tshirt"
+      },
+      {
+        "id": 4,
+        "name": "Etiquetas Producto",
+        "description": "Etiquetas adhesivas para productos",
+        "price": 5000,
+        "category": "label"
+      },
+      {
+        "id": 5,
+        "name": "Banners Publicitarios",
+        "description": "Banners de lona para publicidad",
+        "price": 30000,
+        "category": "banner"
+      },
+      {
+        "id": 6,
+        "name": "Menús Personalizados",
+        "description": "Menús para restaurantes y cafeterías",
+        "price": 25000,
+        "category": "sublimation"
+      }
+    ],
+    "monthlySales": [
+      {
+        "month": "Enero",
+        "sales": 450000,
+        "orders": 25
+      },
+      {
+        "month": "Febrero",
+        "sales": 520000,
+        "orders": 28
+      },
+      {
+        "month": "Marzo",
+        "sales": 480000,
+        "orders": 26
+      },
+      {
+        "month": "Abril",
+        "sales": 610000,
+        "orders": 32
+      },
+      {
+        "month": "Mayo",
+        "sales": 580000,
+        "orders": 30
+      }
+    ]
+  }
+}
