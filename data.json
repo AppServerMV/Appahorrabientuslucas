@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T03:00:11.509Z",
+    "ultima_actualizacion": "2025-09-29T03:00:59.253Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -24,17 +24,5 @@
     }
   ],
   "productos": [],
-  "ordenes": [
-    {
-      "id": "id_ztwr7zkh3",
-      "cliente_id": "id_dn30ntl90",
-      "descripcion": "impresiones",
-      "prioridad": "alta",
-      "productos": [],
-      "presupuesto": 1,
-      "fecha_limite": null,
-      "fecha_creacion": "2025-09-29T02:57:04.222Z",
-      "estado": "completada"
-    }
-  ]
+  "ordenes": []
 }
