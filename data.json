@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T18:59:58.506Z",
+    "ultima_actualizacion": "2025-09-29T19:00:02.026Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -21,15 +21,6 @@
       "telefono": "+593 993452899",
       "direccion": "Cerro Navia",
       "fecha_registro": "2025-09-29T02:53:32.934Z"
-    },
-    {
-      "id": "id_yoggzamo5",
-      "nombre": "DAYANA",
-      "apellido": "CORDOVA",
-      "email": "02DAYANACORDOVA02@GMAIL.COM",
-      "telefono": "+593 993452899",
-      "direccion": "CALLE 456",
-      "fecha_registro": "2025-09-29T16:25:10.684Z"
     }
   ],
   "productos": [
