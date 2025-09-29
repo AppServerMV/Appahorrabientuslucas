@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T14:22:32.332Z",
+    "ultima_actualizacion": "2025-09-29T14:22:46.776Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -44,7 +44,7 @@
       "presupuesto": 10000,
       "fecha_limite": "2025-09-24",
       "fecha_creacion": "2025-09-29T14:22:32.332Z",
-      "estado": "pendiente"
+      "estado": "completada"
     }
   ]
 }
