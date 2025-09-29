@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T16:28:56.465Z",
+    "ultima_actualizacion": "2025-09-29T18:59:56.563Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -42,19 +42,6 @@
     }
   ],
   "ordenes": [
-    {
-      "id": "id_h999biz6w",
-      "cliente_id": "id_yoggzamo5",
-      "descripcion": "DD",
-      "prioridad": "media",
-      "productos": [
-        "id_tkedhccvl"
-      ],
-      "presupuesto": 200000,
-      "fecha_limite": null,
-      "fecha_creacion": "2025-09-29T16:27:04.276Z",
-      "estado": "completada"
-    },
     {
       "id": "id_q6rdehfdj",
       "cliente_id": "id_dn30ntl90",
