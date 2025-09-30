@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-09-29T19:10:22.548Z",
+    "ultima_actualizacion": "2025-09-30T02:23:47.706Z",
     "version_esquema": "1.0"
   },
   "configuracion": {
@@ -32,5 +32,19 @@
       "categoria": "producto"
     }
   ],
-  "ordenes": []
+  "ordenes": [
+    {
+      "id": "id_8f3qhaf39",
+      "cliente_id": "id_dn30ntl90",
+      "descripcion": "im",
+      "prioridad": "media",
+      "productos": [
+        "id_tkedhccvl"
+      ],
+      "presupuesto": 10000,
+      "fecha_limite": "2025-09-30",
+      "fecha_creacion": "2025-09-30T02:23:47.706Z",
+      "estado": "pendiente"
+    }
+  ]
 }
