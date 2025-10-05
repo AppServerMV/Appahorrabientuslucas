@@ -1,12 +1,12 @@
 {
   "clientes": [
     {
-      "apellido": "Perea Vera",
+      "apellido": "Vera",
       "direccion": "Cerro Navia",
       "email": "Manuel.a.p.v@hotmail.com",
       "fecha_registro": "2025-09-29T02:53:32.934Z",
       "id": "id_dn30ntl90",
-      "nombre": "Manuel Antonio",
+      "nombre": "Manuel ",
       "telefono": "+593 993452899"
     }
   ],
@@ -20,7 +20,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-05T23:50:44.604Z",
+    "ultima_actualizacion": "2025-10-05T23:57:59.851Z",
     "version_esquema": "1.0"
   },
   "ordenes": [],
