@@ -8,19 +8,28 @@
       "id": "id_5ke831ceg",
       "nombre": "DAYANA",
       "telefono": "+593 993452899"
+    },
+    {
+      "id": "id_3k1cke27a",
+      "nombre": "Manuel ",
+      "apellido": "Perea",
+      "email": "Manuel.a.p.v@hotmail.com",
+      "telefono": "+593 993452899",
+      "direccion": null,
+      "fecha_registro": "2025-10-06T13:39:46.677Z"
     }
   ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
       "email": "email@empresa.com",
-      "impuesto": 19.0,
+      "impuesto": 19,
       "nombre": "Tu Empresa",
       "telefono": "123456789"
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-06T01:06:35.172Z",
+    "ultima_actualizacion": "2025-10-06T13:39:46.678Z",
     "version_esquema": "1.0"
   },
   "ordenes": [],
@@ -30,7 +39,7 @@
       "descripcion": "Descripción del producto",
       "id": "1",
       "nombre": "Producto A",
-      "precio": 100.0
+      "precio": 100
     }
   ]
 }
