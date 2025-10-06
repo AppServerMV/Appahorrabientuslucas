@@ -1,20 +1,19 @@
 {
   "clientes": [
     {
+      "apellido": "CORDOVA cccc",
+      "email": "02DAYANACORDOVA02@GMAIL.COM",
+      "fecha_registro": "2025-10-06T01:06:35.171Z",
       "id": "id_5ke831ceg",
       "nombre": "DAYANA",
-      "apellido": "CORDOVA",
-      "email": "02DAYANACORDOVA02@GMAIL.COM",
-      "telefono": "+593 993452899",
-      "direccion": null,
-      "fecha_registro": "2025-10-06T01:06:35.171Z"
+      "telefono": "+593 993452899"
     }
   ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
       "email": "email@empresa.com",
-      "impuesto": 19,
+      "impuesto": 19.0,
       "nombre": "Tu Empresa",
       "telefono": "123456789"
     }
@@ -30,7 +29,7 @@
       "descripcion": "Descripción del producto",
       "id": "1",
       "nombre": "Producto A",
-      "precio": 100
+      "precio": 100.0
     }
   ]
 }
