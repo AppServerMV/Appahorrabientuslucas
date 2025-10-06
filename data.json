@@ -8,19 +8,28 @@
       "id": "0b13ad7f-f9b1-460a-9d6f-70da10282ef8",
       "nombre": "Manuel",
       "telefono": null
+    },
+    {
+      "id": "id_l6e20jh6y",
+      "nombre": "DAYANA",
+      "apellido": "CORDOVA",
+      "email": null,
+      "telefono": null,
+      "direccion": null,
+      "fecha_registro": "2025-10-06T15:27:09.901Z"
     }
   ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
       "email": "email@empresa.com",
-      "impuesto": 19.0,
+      "impuesto": 19,
       "nombre": "Tu Empresa",
       "telefono": "123456789"
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-06T14:02:59.533Z",
+    "ultima_actualizacion": "2025-10-06T15:27:09.901Z",
     "version_esquema": "1.0"
   },
   "ordenes": [],
@@ -30,7 +39,7 @@
       "descripcion": "Descripción del producto",
       "id": "1",
       "nombre": "Producto A",
-      "precio": 100.0
+      "precio": 100
     }
   ]
 }
