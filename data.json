@@ -1,1 +1,50 @@
-{"clientes":[{"apellido":"Pérez","direccion":"Calle 123","email":"juan@email.com","fecha_registro":"2024-01-15","id":"1","nombre":"Juan","telefono":"123456789"}],"configuracion":{"empresa":{"direccion":"Dirección","email":"email@empresa.com","impuesto":19.0,"nombre":"Tu Empresa","telefono":"123456789"}},"metadata":{"ultima_actualizacion":"2024-01-15 12:00:00","version_esquema":"1.0"},"ordenes":[{"cliente_id":"1","descripcion":"Orden de ejemplo","estado":"completada","fecha_creacion":"2024-01-15","fecha_limite":"2024-01-20","id":"1","presupuesto":150.0,"prioridad":"media","productos":["1"]}],"productos":[{"categoria":"General","descripcion":"Descripción del producto","id":"1","nombre":"Producto A","precio":100.0}]}
+{
+  "clientes": [
+    {
+      "apellido": "Pérez",
+      "direccion": "Calle 1232",
+      "email": "juan@email.com",
+      "fecha_registro": "2024-01-15",
+      "id": "1",
+      "nombre": "Juan",
+      "telefono": "123456789"
+    }
+  ],
+  "configuracion": {
+    "empresa": {
+      "direccion": "Dirección",
+      "email": "email@empresa.com",
+      "impuesto": 19,
+      "nombre": "Tu Empresa",
+      "telefono": "123456789"
+    }
+  },
+  "metadata": {
+    "ultima_actualizacion": "2025-10-06T00:29:00.372Z",
+    "version_esquema": "1.0"
+  },
+  "ordenes": [
+    {
+      "cliente_id": "1",
+      "descripcion": "Orden de ejemplo",
+      "estado": "completada",
+      "fecha_creacion": "2024-01-15",
+      "fecha_limite": "2024-01-20",
+      "id": "1",
+      "presupuesto": 150,
+      "prioridad": "media",
+      "productos": [
+        "1"
+      ]
+    }
+  ],
+  "productos": [
+    {
+      "categoria": "General",
+      "descripcion": "Descripción del producto",
+      "id": "1",
+      "nombre": "Producto A",
+      "precio": 100
+    }
+  ]
+}
