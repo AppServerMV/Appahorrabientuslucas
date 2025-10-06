@@ -1,5 +1,15 @@
 {
-  "clientes": [],
+  "clientes": [
+    {
+      "apellido": "Perea",
+      "direccion": null,
+      "email": "manuel.a.p.v@hotmail.com",
+      "fecha_registro": "2025-10-06",
+      "id": "0b13ad7f-f9b1-460a-9d6f-70da10282ef8",
+      "nombre": "Manuel",
+      "telefono": null
+    }
+  ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
