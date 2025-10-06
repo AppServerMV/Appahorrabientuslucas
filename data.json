@@ -17,6 +17,15 @@
       "telefono": "+593 993452899",
       "direccion": null,
       "fecha_registro": "2025-10-06T00:32:55.572Z"
+    },
+    {
+      "id": "id_ffhfam677",
+      "nombre": "Manuel ",
+      "apellido": "Perea",
+      "email": "juan@email.com",
+      "telefono": "+593 993452899",
+      "direccion": null,
+      "fecha_registro": "2025-10-06T00:38:06.252Z"
     }
   ],
   "configuracion": {
@@ -29,7 +38,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-06T00:33:29.643Z",
+    "ultima_actualizacion": "2025-10-06T00:38:06.252Z",
     "version_esquema": "1.0"
   },
   "ordenes": [
