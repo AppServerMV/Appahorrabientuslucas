@@ -1,7 +1,8 @@
 {
   "clientes": [
     {
-      "apellido": "CORDOVA cccc",
+      "apellido": "CORDOVA",
+      "direccion": null,
       "email": "02DAYANACORDOVA02@GMAIL.COM",
       "fecha_registro": "2025-10-06T01:06:35.171Z",
       "id": "id_5ke831ceg",
