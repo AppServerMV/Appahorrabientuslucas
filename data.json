@@ -1,115 +1,48 @@
 {
-  "clientes": [
-    {
-      "apellido": "Perea",
-      "direccion": "Cerro Navia",
-      "email": "manuel.a.p.v@hotmail.com",
-      "fecha_registro": "2025-09-29T02:53:32.934Z",
-      "id": "id_dn30ntl90",
-      "nombre": "Manuel",
-      "telefono": "+56 9 93452899"
-    },
-    {
-      "apellido": "Cordova",
-      "direccion": "Cerro Navia",
-      "email": "02dayanacordova02@gmail.com",
-      "fecha_registro": "2025-10-05T18:45:10.000Z",
-      "id": "a3e0c327-e6fd-4b65-bfca-6c931ba34290",
-      "nombre": "Vanessa",
-      "telefono": "+56 9 93452899"
-    },
-    {
-      "apellido": "Fuentes",
-      "direccion": "Santiago Centro",
-      "email": "andresfuentes@gmail.com",
-      "fecha_registro": "2025-10-01T09:15:42.000Z",
-      "id": "id_98asf8asf",
-      "nombre": "Andrés",
-      "telefono": "+56 9 88884512"
-    },
-    {
-      "apellido": "Torres",
-      "direccion": "Maipú",
-      "email": "carlatorres@gmail.com",
-      "fecha_registro": "2025-09-20T22:18:59.000Z",
-      "id": "id_torres2000",
-      "nombre": "Carla",
-      "telefono": "+56 9 76543210"
-    }
-  ],
-  "configuracion": {
-    "empresa": {
-      "direccion": "Ambrosio O'Higgins 1441",
-      "email": "tonitot27@gmail.com",
-      "impuesto": 19,
-      "nombre": "Ahorra Bien Tus Lucas",
-      "telefono": "+56 9 20484658"
-    }
-  },
   "metadata": {
-    "ultima_actualizacion": "2025-10-06T00:08:42.516Z",
+    "ultima_actualizacion": "2024-01-15 12:00:00",
     "version_esquema": "1.0"
   },
-  "ordenes": [
+  "configuracion": {
+    "empresa": {
+      "nombre": "Tu Empresa",
+      "direccion": "Dirección",
+      "telefono": "123456789",
+      "email": "email@empresa.com",
+      "impuesto": 19.0
+    }
+  },
+  "clientes": [
     {
-      "id": "ord_001",
-      "cliente_id": "id_dn30ntl90",
-      "fecha": "2025-10-03T15:22:18.000Z",
-      "total": 15000,
-      "items": [
-        {
-          "producto_id": "id_tkedhccvl",
-          "cantidad": 3,
-          "precio_unitario": 5000
-        }
-      ],
-      "estado": "completada",
-      "metodo_pago": "efectivo"
-    },
-    {
-      "id": "ord_002",
-      "cliente_id": "a3e0c327-e6fd-4b65-bfca-6c931ba34290",
-      "fecha": "2025-10-04T11:05:00.000Z",
-      "total": 7000,
-      "items": [
-        {
-          "producto_id": "id_prodflyer",
-          "cantidad": 1,
-          "precio_unitario": 7000
-        }
-      ],
-      "estado": "pendiente",
-      "metodo_pago": "transferencia"
+      "id": "1",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "email": "juan@email.com",
+      "telefono": "123456789",
+      "direccion": "Calle 123",
+      "fecha_registro": "2024-01-15"
     }
   ],
   "productos": [
     {
-      "categoria": "impresiones",
-      "descripcion": "Stickers impresos en PVC adhesivo 1x1M",
-      "id": "id_tkedhccvl",
-      "nombre": "Stickers Troquelados",
-      "precio": 5000
-    },
+      "id": "1",
+      "nombre": "Producto A",
+      "descripcion": "Descripción del producto",
+      "precio": 100.0,
+      "categoria": "General"
+    }
+  ],
+  "ordenes": [
     {
-      "categoria": "flyers",
-      "descripcion": "Volantes full color 100 unidades tamaño A5",
-      "id": "id_prodflyer",
-      "nombre": "Volantes Publicitarios",
-      "precio": 7000
-    },
-    {
-      "categoria": "tarjetas",
-      "descripcion": "Tarjetas de presentación 500 unidades laminadas",
-      "id": "id_prodtarj",
-      "nombre": "Tarjetas de Presentación",
-      "precio": 12000
-    },
-    {
-      "categoria": "pendones",
-      "descripcion": "Pendón roller 80x200 cm con estructura incluida",
-      "id": "id_prodpndn",
-      "nombre": "Pendón Roller",
-      "precio": 25000
+      "id": "1",
+      "cliente_id": "1",
+      "descripcion": "Orden de ejemplo",
+      "prioridad": "media",
+      "productos": ["1"],
+      "presupuesto": 150.0,
+      "fecha_limite": "2024-01-20",
+      "fecha_creacion": "2024-01-15",
+      "estado": "pendiente"
     }
   ]
 }
