@@ -10,20 +10,20 @@
       "telefono": "+593 993452899"
     },
     {
+      "apellido": "Perea Vera",
+      "direccion": null,
+      "email": "Manuel.a.p.v@hotmail.com",
+      "fecha_registro": "2025-10-06T13:39:46.677Z",
       "id": "id_3k1cke27a",
       "nombre": "Manuel ",
-      "apellido": "Perea",
-      "email": "Manuel.a.p.v@hotmail.com",
-      "telefono": "+593 993452899",
-      "direccion": null,
-      "fecha_registro": "2025-10-06T13:39:46.677Z"
+      "telefono": "+593 993452899"
     }
   ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
       "email": "email@empresa.com",
-      "impuesto": 19,
+      "impuesto": 19.0,
       "nombre": "Tu Empresa",
       "telefono": "123456789"
     }
@@ -39,7 +39,7 @@
       "descripcion": "Descripción del producto",
       "id": "1",
       "nombre": "Producto A",
-      "precio": 100
+      "precio": 100.0
     }
   ]
 }
