@@ -1,15 +1,5 @@
 {
-  "clientes": [
-    {
-      "apellido": "Perea Vera",
-      "direccion": null,
-      "email": "Manuel.a.p.v@hotmail.com",
-      "fecha_registro": "2025-10-06T13:39:46.677Z",
-      "id": "id_3k1cke27a",
-      "nombre": "Manuel ",
-      "telefono": "+593 993452899"
-    }
-  ],
+  "clientes": [],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
