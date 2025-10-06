@@ -1,15 +1,6 @@
 {
   "clientes": [
     {
-      "apellido": "CORDOVA",
-      "direccion": null,
-      "email": "02DAYANACORDOVA02@GMAIL.COM",
-      "fecha_registro": "2025-10-06T01:06:35.171Z",
-      "id": "id_5ke831ceg",
-      "nombre": "DAYANA",
-      "telefono": "+593 993452899"
-    },
-    {
       "apellido": "Perea Vera",
       "direccion": null,
       "email": "Manuel.a.p.v@hotmail.com",
@@ -17,22 +8,13 @@
       "id": "id_3k1cke27a",
       "nombre": "Manuel ",
       "telefono": "+593 993452899"
-    },
-    {
-      "id": "id_0egxyvjcs",
-      "nombre": "Juan",
-      "apellido": "Perea ",
-      "email": "juan@email.com",
-      "telefono": "+593 993452899",
-      "direccion": null,
-      "fecha_registro": "2025-10-06T14:02:59.532Z"
     }
   ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
       "email": "email@empresa.com",
-      "impuesto": 19,
+      "impuesto": 19.0,
       "nombre": "Tu Empresa",
       "telefono": "123456789"
     }
@@ -48,7 +30,7 @@
       "descripcion": "Descripción del producto",
       "id": "1",
       "nombre": "Producto A",
-      "precio": 100
+      "precio": 100.0
     }
   ]
 }
