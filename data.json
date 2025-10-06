@@ -1,1 +1,36 @@
-{"clientes":[],"configuracion":{"empresa":{"direccion":"Dirección","email":"email@empresa.com","impuesto":19.0,"nombre":"Tu Empresa","telefono":"123456789"}},"metadata":{"ultima_actualizacion":"2025-10-06T00:49:07.209Z","version_esquema":"1.0"},"ordenes":[],"productos":[{"categoria":"General","descripcion":"Descripción del producto","id":"1","nombre":"Producto A","precio":100.0}]}
+{
+  "clientes": [
+    {
+      "id": "id_5ke831ceg",
+      "nombre": "DAYANA",
+      "apellido": "CORDOVA",
+      "email": "02DAYANACORDOVA02@GMAIL.COM",
+      "telefono": "+593 993452899",
+      "direccion": null,
+      "fecha_registro": "2025-10-06T01:06:35.171Z"
+    }
+  ],
+  "configuracion": {
+    "empresa": {
+      "direccion": "Dirección",
+      "email": "email@empresa.com",
+      "impuesto": 19,
+      "nombre": "Tu Empresa",
+      "telefono": "123456789"
+    }
+  },
+  "metadata": {
+    "ultima_actualizacion": "2025-10-06T01:06:35.172Z",
+    "version_esquema": "1.0"
+  },
+  "ordenes": [],
+  "productos": [
+    {
+      "categoria": "General",
+      "descripcion": "Descripción del producto",
+      "id": "1",
+      "nombre": "Producto A",
+      "precio": 100
+    }
+  ]
+}
