@@ -8,6 +8,15 @@
       "id": "1",
       "nombre": "Juan",
       "telefono": "123456789"
+    },
+    {
+      "id": "id_mxp2608n8",
+      "nombre": "DAYANA",
+      "apellido": "CORDOVA",
+      "email": "02DAYANACORDOVA02@GMAIL.COM",
+      "telefono": "+593 993452899",
+      "direccion": null,
+      "fecha_registro": "2025-10-06T00:32:55.572Z"
     }
   ],
   "configuracion": {
@@ -20,7 +29,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-06T00:29:00.372Z",
+    "ultima_actualizacion": "2025-10-06T00:32:55.572Z",
     "version_esquema": "1.0"
   },
   "ordenes": [
