@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T14:50:20.132Z",
+    "ultima_actualizacion": "2025-10-08T14:51:01.894Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -37,7 +37,16 @@
       "direccion": "San Miguel"
     }
   ],
-  "productos": [],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Stikers",
+      "descripcion": "Sitikers troquelados",
+      "precio_venta": 10000,
+      "costo_produccion": 5000,
+      "categoria": "producto"
+    }
+  ],
   "ordenes": [],
   "materiales": []
 }
