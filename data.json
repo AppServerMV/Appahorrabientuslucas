@@ -1,15 +1,5 @@
 {
-  "clientes": [
-    {
-      "apellido": "Perea",
-      "direccion": null,
-      "email": "manuel.a.p.v@hotmail.com",
-      "fecha_registro": "2025-10-06",
-      "id": "0b13ad7f-f9b1-460a-9d6f-70da10282ef8",
-      "nombre": "Manuel",
-      "telefono": null
-    }
-  ],
+  "clientes": [],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
@@ -20,7 +10,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T02:47:58.639Z",
+    "ultima_actualizacion": "2025-10-08T02:48:00.275Z",
     "version_esquema": "1.0"
   },
   "ordenes": [],
