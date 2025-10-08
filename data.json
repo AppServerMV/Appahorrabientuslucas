@@ -20,7 +20,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T02:56:34.572Z",
+    "ultima_actualizacion": "2025-10-08T02:57:27.578Z",
     "version_esquema": "1.0"
   },
   "ordenes": [
@@ -32,7 +32,7 @@
       "productos": [
         "1"
       ],
-      "presupuesto": 5000,
+      "presupuesto": 10000,
       "fecha_limite": "2025-10-09",
       "fecha_creacion": "2025-10-08T02:56:34.572Z",
       "estado": "pendiente"
