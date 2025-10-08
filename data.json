@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T14:44:34.573Z",
-    "version_esquema": "1.0"
+    "ultima_actualizacion": "",
+    "version_esquema": "2.2"
   },
   "configuracion": {
     "empresa": {
-      "direccion": "Dirección",
-      "email": "email@empresa.com",
+      "nombre": "Ahorra Bien Tus Lucas",
+      "direccion": "",
+      "telefono": "",
+      "email": "",
       "impuesto": 19,
-      "nombre": "Tu Empresa",
-      "telefono": "123456789"
+      "costo_delivery_fijo": 3500
     },
     "mensajes_whatsapp": {
       "diseno_iniciado": "Hola [CLIENTE], tu orden #[ID_ORDEN] '[DESCRIPCION]' ha comenzado. Te contactaremos pronto para la aprobación.",
@@ -17,42 +18,17 @@
       "en_produccion": "Hola [CLIENTE], tu orden #[ID_ORDEN] '[DESCRIPCION]' está ahora en producción. Fecha de entrega estimada: [FECHA_LIMITE].",
       "pedido_listo": "¡Hola [CLIENTE]! Tu orden #[ID_ORDEN] está terminada y lista para retiro o envío. Coordinaremos la entrega contigo.",
       "agradecimiento_final": "¡Hola [CLIENTE]! 🎉 Queremos agradecerte por confiar en *[NOMBRE_EMPRESA]* con tu orden #[ID_ORDEN]. ¡Vuelve pronto! ✨"
+    },
+    "mensajes_correo": {
+      "diseno_iniciado": "Asunto: [NOMBRE_EMPRESA] - Diseño de Orden #[ID_ORDEN] Iniciado. \n\nHola [CLIENTE], el diseño de tu orden #[ID_ORDEN] '[DESCRIPCION]' ha comenzado. Te contactaremos pronto para la aprobación.",
+      "esperando_aprobacion": "Asunto: ¡URGENTE! [NOMBRE_EMPRESA] - Diseño de Orden #[ID_ORDEN] Listo para Aprobar. \n\nHola [CLIENTE], ¡Tu diseño está listo! Por favor, revisa el archivo adjunto (si aplica) o comunícate con nosotros para dar tu aprobación. Sin tu OK, no podemos pasar a producción.",
+      "en_produccion": "Asunto: [NOMBRE_EMPRESA] - Orden #[ID_ORDEN] en Producción. \n\nHola [CLIENTE], tu orden '[DESCRIPCION]' ha sido aprobada y se encuentra ahora en la fase de producción. Fecha de entrega estimada: [FECHA_LIMITE].",
+      "pedido_listo": "Asunto: ¡Tu Pedido Está Listo! [NOMBRE_EMPRESA] - Orden #[ID_ORDEN] Terminada. \n\nHola [CLIENTE], tu orden '[DESCRIPCION]' está terminada y lista para retiro o envío. Coordinaremos la entrega contigo.",
+      "agradecimiento_final": "Asunto: ¡Gracias por tu compra! [NOMBRE_EMPRESA] - Orden #[ID_ORDEN]. \n\n¡Hola [CLIENTE]! 🎉 Queremos agradecerte por confiar en *[NOMBRE_EMPRESA]* con tu orden #[ID_ORDEN]. Esperamos que te encante el resultado. ¡Vuelve pronto! ✨"
     }
   },
-  "clientes": [
-    {
-      "id": "id_n9kwwxky6",
-      "nombre": "Pamela",
-      "apellido": "Gonzalez Ruiz",
-      "email": null,
-      "telefono": "949207128",
-      "direccion": "Comuna San Miguel",
-      "fecha_registro": "2025-10-08T02:51:27.187Z"
-    }
-  ],
-  "productos": [
-    {
-      "categoria": "producto",
-      "descripcion": "Adhesivo Pvc Mate o Brillante ",
-      "id": "1",
-      "nombre": "Stickers Troquelados 1M Cuadrado",
-      "precio": 5000
-    }
-  ],
-  "ordenes": [
-    {
-      "id": "id_drupfqya4",
-      "cliente_id": "id_n9kwwxky6",
-      "descripcion": "Archivo en el mesenger",
-      "prioridad": "media",
-      "productos": [
-        "1"
-      ],
-      "presupuesto": 10000,
-      "fecha_limite": "2025-10-09",
-      "fecha_creacion": "2025-10-08T02:56:34.572Z",
-      "estado": "pendiente"
-    }
-  ],
+  "clientes": [],
+  "productos": [],
+  "ordenes": [],
   "materiales": []
 }
