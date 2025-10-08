@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T18:58:33.493Z",
+    "ultima_actualizacion": "2025-10-08T18:59:00.412Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -39,7 +39,7 @@
     {
       "id": 2,
       "nombre": "Luis",
-      "apellido": "CASTRO",
+      "apellido": "Castro",
       "email": "luiscastro2330@gmail.com",
       "telefono": "56944795483",
       "direccion": "Baños morales 11524 El bosque"
