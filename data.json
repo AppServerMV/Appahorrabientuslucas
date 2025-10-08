@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T14:53:48.422Z",
+    "ultima_actualizacion": "2025-10-08T15:46:57.815Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -60,7 +60,7 @@
       "ganancia": 5000,
       "abono": 0,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-07T10:00",
+      "fecha_entrada_pedido": "2025-10-07T13:00",
       "estado_proceso": "Diseño en Curso",
       "prioridad": "media",
       "incluye_delivery": false,
