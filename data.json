@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T14:51:30.438Z",
+    "ultima_actualizacion": "2025-10-08T14:53:48.422Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -47,7 +47,29 @@
       "categoria": "producto"
     }
   ],
-  "ordenes": [],
+  "ordenes": [
+    {
+      "id": "20251008-0001",
+      "cliente_id": 1,
+      "descripcion": "Relizacion de Stikers de 2 medidas",
+      "productos_ids": [
+        1
+      ],
+      "total_orden": 10000,
+      "total_produccion": 5000,
+      "ganancia": 5000,
+      "abono": 0,
+      "fecha_limite": "2025-10-10",
+      "fecha_entrada_pedido": "2025-10-07T10:00",
+      "estado_proceso": "Diseño en Curso",
+      "prioridad": "media",
+      "incluye_delivery": false,
+      "tipo_material": "PVC Adhesivo ",
+      "medidas_diseno": "7x7 ",
+      "requiere_troquelado": true,
+      "valor_extra": 0
+    }
+  ],
   "materiales": [
     {
       "id": 1,
