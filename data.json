@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T14:51:01.894Z",
+    "ultima_actualizacion": "2025-10-08T14:51:30.438Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -48,5 +48,11 @@
     }
   ],
   "ordenes": [],
-  "materiales": []
+  "materiales": [
+    {
+      "id": 1,
+      "nombre": "PVC Adhesivo ",
+      "notas": "Para stikers o vidrios"
+    }
+  ]
 }
