@@ -8,15 +8,6 @@
       "id": "0b13ad7f-f9b1-460a-9d6f-70da10282ef8",
       "nombre": "Manuel",
       "telefono": null
-    },
-    {
-      "id": "id_l6e20jh6y",
-      "nombre": "DAYANA",
-      "apellido": "CORDOVA",
-      "email": null,
-      "telefono": null,
-      "direccion": null,
-      "fecha_registro": "2025-10-06T15:27:09.901Z"
     }
   ],
   "configuracion": {
@@ -29,7 +20,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-06T15:27:14.626Z",
+    "ultima_actualizacion": "2025-10-08T02:47:58.639Z",
     "version_esquema": "1.0"
   },
   "ordenes": [],
