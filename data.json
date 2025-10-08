@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "",
+    "ultima_actualizacion": "2025-10-08T14:50:20.132Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -27,7 +27,16 @@
       "agradecimiento_final": "Asunto: ¡Gracias por tu compra! [NOMBRE_EMPRESA] - Orden #[ID_ORDEN]. \n\n¡Hola [CLIENTE]! 🎉 Queremos agradecerte por confiar en *[NOMBRE_EMPRESA]* con tu orden #[ID_ORDEN]. Esperamos que te encante el resultado. ¡Vuelve pronto! ✨"
     }
   },
-  "clientes": [],
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Pamela ",
+      "apellido": "Gonzalez Ruiz",
+      "email": "",
+      "telefono": "56949207128",
+      "direccion": "San Miguel"
+    }
+  ],
   "productos": [],
   "ordenes": [],
   "materiales": []
