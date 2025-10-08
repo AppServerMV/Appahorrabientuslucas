@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T18:51:30.284Z",
+    "ultima_actualizacion": "2025-10-08T18:53:14.315Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -57,7 +57,7 @@
     {
       "id": 2,
       "nombre": "Diseños",
-      "descripcion": "Se crea un diseño básico a opción de 3 cambios \nBordes celeste con letras color negra deacuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48",
+      "descripcion": "Se crea un diseño básico a opción de 3 cambios \nBordes celeste con letras color negra deacuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48 desea 2 metro de 6x6",
       "precio_venta": 10000,
       "costo_produccion": 5000,
       "categoria": "servicio"
