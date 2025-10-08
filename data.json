@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T18:25:55.773Z",
+    "ultima_actualizacion": "2025-10-08T18:39:29.356Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -35,6 +35,14 @@
       "email": "",
       "telefono": "56949207128",
       "direccion": "San Miguel"
+    },
+    {
+      "id": 2,
+      "nombre": "Luis",
+      "apellido": "CASTRO",
+      "email": "luiscastro2330@gmail.com",
+      "telefono": "56944795483",
+      "direccion": "Comuna \"El bosque\""
     }
   ],
   "productos": [
