@@ -1,4 +1,24 @@
 {
+  "metadata": {
+    "ultima_actualizacion": "2025-10-08T14:44:17.076Z",
+    "version_esquema": "1.0"
+  },
+  "configuracion": {
+    "empresa": {
+      "direccion": "Dirección",
+      "email": "email@empresa.com",
+      "impuesto": 19,
+      "nombre": "Tu Empresa",
+      "telefono": "123456789"
+    },
+    "mensajes_whatsapp": {
+      "diseno_iniciado": "Hola [CLIENTE], tu orden #[ID_ORDEN] '[DESCRIPCION]' ha comenzado. Te contactaremos pronto para la aprobación.",
+      "esperando_aprobacion": "¡Hola [CLIENTE]! Tu diseño de orden #[ID_ORDEN] está listo para aprobar. Por favor, revisa y confirma para continuar con la producción.",
+      "en_produccion": "Hola [CLIENTE], tu orden #[ID_ORDEN] '[DESCRIPCION]' está ahora en producción. Fecha de entrega estimada: [FECHA_LIMITE].",
+      "pedido_listo": "¡Hola [CLIENTE]! Tu orden #[ID_ORDEN] está terminada y lista para retiro o envío. Coordinaremos la entrega contigo.",
+      "agradecimiento_final": "¡Hola [CLIENTE]! 🎉 Queremos agradecerte por confiar en *[NOMBRE_EMPRESA]* con tu orden #[ID_ORDEN]. ¡Vuelve pronto! ✨"
+    }
+  },
   "clientes": [
     {
       "id": "id_n9kwwxky6",
@@ -10,19 +30,15 @@
       "fecha_registro": "2025-10-08T02:51:27.187Z"
     }
   ],
-  "configuracion": {
-    "empresa": {
-      "direccion": "Dirección",
-      "email": "email@empresa.com",
-      "impuesto": 19,
-      "nombre": "Tu Empresa",
-      "telefono": "123456789"
+  "productos": [
+    {
+      "categoria": "producto",
+      "descripcion": "Adhesivo Pvc Mate o Brillante ",
+      "id": "1",
+      "nombre": "Stickers Troquelados 1M Cuadrado",
+      "precio": 5000
     }
-  },
-  "metadata": {
-    "ultima_actualizacion": "2025-10-08T02:57:27.578Z",
-    "version_esquema": "1.0"
-  },
+  ],
   "ordenes": [
     {
       "id": "id_drupfqya4",
@@ -38,13 +54,5 @@
       "estado": "pendiente"
     }
   ],
-  "productos": [
-    {
-      "categoria": "producto",
-      "descripcion": "Adhesivo Pvc Mate o Brillante ",
-      "id": "1",
-      "nombre": "Stickers Troquelados 1M Cuadrado",
-      "precio": 5000
-    }
-  ]
+  "materiales": []
 }
