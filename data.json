@@ -20,10 +20,24 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T02:55:12.193Z",
+    "ultima_actualizacion": "2025-10-08T02:56:34.572Z",
     "version_esquema": "1.0"
   },
-  "ordenes": [],
+  "ordenes": [
+    {
+      "id": "id_drupfqya4",
+      "cliente_id": "id_n9kwwxky6",
+      "descripcion": "Archivo en el mesenger",
+      "prioridad": "media",
+      "productos": [
+        "1"
+      ],
+      "presupuesto": 5000,
+      "fecha_limite": "2025-10-09",
+      "fecha_creacion": "2025-10-08T02:56:34.572Z",
+      "estado": "pendiente"
+    }
+  ],
   "productos": [
     {
       "categoria": "producto",
