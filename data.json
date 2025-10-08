@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T19:00:58.622Z",
+    "ultima_actualizacion": "2025-10-08T19:01:32.380Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -77,7 +77,7 @@
       "ganancia": 10000,
       "abono": 0,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-07T19:00",
+      "fecha_entrada_pedido": "2025-10-07T22:00",
       "estado_proceso": "En Producción",
       "prioridad": "media",
       "incluye_delivery": false,
