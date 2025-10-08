@@ -1,5 +1,15 @@
 {
-  "clientes": [],
+  "clientes": [
+    {
+      "id": "id_n9kwwxky6",
+      "nombre": "Pamela",
+      "apellido": "Gonzalez Ruiz",
+      "email": null,
+      "telefono": "949207128",
+      "direccion": "Comuna San Miguel",
+      "fecha_registro": "2025-10-08T02:51:27.187Z"
+    }
+  ],
   "configuracion": {
     "empresa": {
       "direccion": "Dirección",
@@ -10,7 +20,7 @@
     }
   },
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T02:48:00.275Z",
+    "ultima_actualizacion": "2025-10-08T02:51:27.207Z",
     "version_esquema": "1.0"
   },
   "ordenes": [],
