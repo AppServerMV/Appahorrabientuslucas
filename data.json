@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-08T19:25:18.213Z",
+    "ultima_actualizacion": "2025-10-09T13:38:13.191Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -100,7 +100,7 @@
       "abono": 0,
       "fecha_limite": "",
       "fecha_entrada_pedido": "2025-10-08T15:55",
-      "estado_proceso": "Esperando Aprobación",
+      "estado_proceso": "En Producción",
       "prioridad": "alta",
       "incluye_delivery": true,
       "tipo_material": "PVC Adhesivo ",
