@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-09T15:42:03.944Z",
+    "ultima_actualizacion": "2025-10-09T15:42:18.095Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -71,12 +71,12 @@
       "productos_ids": [
         1
       ],
-      "total_orden": 23500,
-      "total_produccion": 10000,
-      "ganancia": 10000,
-      "abono": 10000,
+      "total_orden": 13500,
+      "total_produccion": 5000,
+      "ganancia": 5000,
+      "abono": 0,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-08T10:00",
+      "fecha_entrada_pedido": "2025-10-08T13:00",
       "estado_proceso": "En Producción",
       "prioridad": "alta",
       "incluye_delivery": true,
