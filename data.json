@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-09T13:43:28.783Z",
+    "ultima_actualizacion": "2025-10-09T13:49:07.840Z",
     "version_esquema": "2.2"
   },
   "configuracion": {
@@ -77,9 +77,9 @@
       "ganancia": 10000,
       "abono": 10000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-08T04:00",
+      "fecha_entrada_pedido": "2025-10-08T07:00",
       "estado_proceso": "En Producción",
-      "prioridad": "media",
+      "prioridad": "alta",
       "incluye_delivery": true,
       "tipo_material": "PVC Adhesivo ",
       "medidas_diseno": "7x7 ",
