@@ -1,7 +1,7 @@
 {
   "metadata": {
     "ultima_actualizacion": "2025-10-09T13:49:07.840Z",
-    "version_esquema": "2.2"
+    "version_esquema": "2.3"
   },
   "configuracion": {
     "empresa": {
@@ -14,14 +14,14 @@
     },
     "mensajes_whatsapp": {
       "diseno_iniciado": "Hola [CLIENTE], tu orden #[ID_ORDEN] '[DESCRIPCION]' ha comenzado. Te contactaremos pronto para la aprobación.",
-      "esperando_aprobacion": "¡Hola [CLIENTE]! Tu diseño de orden #[ID_ORDEN] está listo para aprobar. Por favor, revisa y confirma para continuar con la producción.",
+      "esperando_aprobacion": "¡Hola [CLIENTE]! Tu diseño de orden #[ID_ORDEN] está listo para aprobar. Por favor, revisa y confirma para continuar con la producción.\n\n*IMPORTANTE:* Verifica cuidadosamente que no haya errores ortográficos o de diseño, ya que una vez aprobado, *[NOMBRE_EMPRESA]* no se hará responsable de estos detalles.",
       "en_produccion": "Hola [CLIENTE], tu orden #[ID_ORDEN] '[DESCRIPCION]' está ahora en producción. Fecha de entrega estimada: [FECHA_LIMITE].",
       "pedido_listo": "¡Hola [CLIENTE]! Tu orden #[ID_ORDEN] está terminada y lista para retiro o envío. Coordinaremos la entrega contigo.",
       "agradecimiento_final": "¡Hola [CLIENTE]! 🎉 Queremos agradecerte por confiar en *[NOMBRE_EMPRESA]* con tu orden #[ID_ORDEN]. ¡Vuelve pronto! ✨"
     },
     "mensajes_correo": {
       "diseno_iniciado": "Asunto: [NOMBRE_EMPRESA] - Diseño de Orden #[ID_ORDEN] Iniciado. \n\nHola [CLIENTE], el diseño de tu orden #[ID_ORDEN] '[DESCRIPCION]' ha comenzado. Te contactaremos pronto para la aprobación.",
-      "esperando_aprobacion": "Asunto: ¡URGENTE! [NOMBRE_EMPRESA] - Diseño de Orden #[ID_ORDEN] Listo para Aprobar. \n\nHola [CLIENTE], ¡Tu diseño está listo! Por favor, revisa el archivo adjunto (si aplica) o comunícate con nosotros para dar tu aprobación. Sin tu OK, no podemos pasar a producción.",
+      "esperando_aprobacion": "Asunto: ¡URGENTE! [NOMBRE_EMPRESA] - Diseño de Orden #[ID_ORDEN] Listo para Aprobar. \n\nHola [CLIENTE], ¡Tu diseño está listo! Por favor, revisa el archivo adjunto (si aplica) o comunícate con nosotros para dar tu aprobación. Sin tu OK, no podemos pasar a producción.\n\nIMPORTANTE: Verifica cuidadosamente que no haya errores ortográficos o de diseño, ya que una vez aprobado, [NOMBRE_EMPRESA] no se hará responsable de estos detalles.",
       "en_produccion": "Asunto: [NOMBRE_EMPRESA] - Orden #[ID_ORDEN] en Producción. \n\nHola [CLIENTE], tu orden '[DESCRIPCION]' ha sido aprobada y se encuentra ahora en la fase de producción. Fecha de entrega estimada: [FECHA_LIMITE].",
       "pedido_listo": "Asunto: ¡Tu Pedido Está Listo! [NOMBRE_EMPRESA] - Orden #[ID_ORDEN] Terminada. \n\nHola [CLIENTE], tu orden '[DESCRIPCION]' está terminada y lista para retiro o envío. Coordinaremos la entrega contigo.",
       "agradecimiento_final": "Asunto: ¡Gracias por tu compra! [NOMBRE_EMPRESA] - Orden #[ID_ORDEN]. \n\n¡Hola [CLIENTE]! 🎉 Queremos agradecerte por confiar en *[NOMBRE_EMPRESA]* con tu orden #[ID_ORDEN]. Esperamos que te encante el resultado. ¡Vuelve pronto! ✨"
@@ -115,5 +115,6 @@
       "nombre": "PVC Adhesivo ",
       "notas": "Para stikers o vidrios"
     }
-  ]
+  ],
+  "proveedores": []
 }
