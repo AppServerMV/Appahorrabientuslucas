@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-09T15:43:10.451Z",
+    "ultima_actualizacion": "2025-10-09T13:49:07.840Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -68,15 +68,22 @@
       "id": "20251008-0001",
       "cliente_id": 1,
       "descripcion": "Relizacion de Stikers de 2 medidas",
-      "productos_ids": [
-        1
+      "productos": [
+        {
+          "id": 1,
+          "cantidad": 1
+        },
+        {
+          "id": 2,
+          "cantidad": 1
+        }
       ],
       "total_orden": 23500,
       "total_produccion": 10000,
       "ganancia": 10000,
-      "abono": 0,
+      "abono": 10000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-08T16:00",
+      "fecha_entrada_pedido": "2025-10-08T07:00",
       "estado_proceso": "En Producción",
       "prioridad": "alta",
       "incluye_delivery": true,
@@ -89,23 +96,29 @@
       "id": "20251008-0002",
       "cliente_id": 2,
       "descripcion": "Se crea un diseño básico a opción de 3 cambios \nBordes celeste con letras color negra de acuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48 desea 2 metro de 6x6",
-      "productos_ids": [
-        2,
-        1
+      "productos": [
+        {
+          "id": 1,
+          "cantidad": 1
+        },
+        {
+          "id": 2,
+          "cantidad": 1
+        }
       ],
       "total_orden": 33500,
-      "total_produccion": 15000,
-      "ganancia": 15000,
+      "total_produccion": 10000,
+      "ganancia": 20000,
       "abono": 25000,
       "fecha_limite": "",
-      "fecha_entrada_pedido": "2025-10-09T00:55",
+      "fecha_entrada_pedido": "2025-10-08T18:55",
       "estado_proceso": "En Producción",
       "prioridad": "alta",
       "incluye_delivery": true,
       "tipo_material": "PVC Adhesivo ",
       "medidas_diseno": "6x6",
       "requiere_troquelado": false,
-      "valor_extra": 0
+      "valor_extra": 10000
     }
   ],
   "materiales": [
