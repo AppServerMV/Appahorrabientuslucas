@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-09T15:41:32.800Z",
+    "ultima_actualizacion": "2025-10-09T15:42:03.944Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -90,22 +90,22 @@
       "cliente_id": 2,
       "descripcion": "Se crea un diseño básico a opción de 3 cambios \nBordes celeste con letras color negra de acuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48 desea 2 metro de 6x6",
       "productos_ids": [
-        1,
-        2
+        2,
+        1
       ],
       "total_orden": 33500,
-      "total_produccion": 10000,
-      "ganancia": 20000,
+      "total_produccion": 15000,
+      "ganancia": 15000,
       "abono": 25000,
       "fecha_limite": "",
-      "fecha_entrada_pedido": "2025-10-08T18:55",
+      "fecha_entrada_pedido": "2025-10-08T21:55",
       "estado_proceso": "En Producción",
       "prioridad": "alta",
       "incluye_delivery": true,
       "tipo_material": "PVC Adhesivo ",
       "medidas_diseno": "6x6",
       "requiere_troquelado": false,
-      "valor_extra": 10000
+      "valor_extra": 0
     }
   ],
   "materiales": [
