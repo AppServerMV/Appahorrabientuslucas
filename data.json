@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-09T13:49:07.840Z",
+    "ultima_actualizacion": "2025-10-09T15:41:32.800Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -69,15 +69,14 @@
       "cliente_id": 1,
       "descripcion": "Relizacion de Stikers de 2 medidas",
       "productos_ids": [
-        1,
-        2
+        1
       ],
       "total_orden": 23500,
       "total_produccion": 10000,
       "ganancia": 10000,
       "abono": 10000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-08T07:00",
+      "fecha_entrada_pedido": "2025-10-08T10:00",
       "estado_proceso": "En Producción",
       "prioridad": "alta",
       "incluye_delivery": true,
