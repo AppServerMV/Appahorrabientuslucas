@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:31:22.621Z",
+    "ultima_actualizacion": "2025-10-10T03:32:07.129Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -68,20 +68,15 @@
       "id": "20251008-0001",
       "cliente_id": 1,
       "descripcion": "Realización de Stikers de 2 medidas",
-      "productos": [
-        {
-          "id": 1,
-          "cantidad": 1,
-          "precio_unitario": 10000,
-          "costo_unitario": 5000
-        }
+      "productos_ids": [
+        1
       ],
-      "total_orden": 13500,
-      "total_produccion": 5000,
-      "ganancia": 8500,
+      "total_orden": 23500,
+      "total_produccion": 10000,
+      "ganancia": 10000,
       "abono": 10000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-08T13:00",
+      "fecha_entrada_pedido": "2025-10-08T16:00",
       "estado_proceso": "Entregado",
       "prioridad": "alta",
       "incluye_delivery": true,
