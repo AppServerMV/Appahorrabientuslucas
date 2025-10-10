@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:14:37.424Z",
+    "ultima_actualizacion": "2025-10-10T03:15:09.983Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -112,28 +112,6 @@
       "medidas_diseno": "6x6",
       "requiere_troquelado": false,
       "valor_extra": 10000
-    },
-    {
-      "id": "20251010-0001",
-      "cliente_id": 2,
-      "descripcion": "sgsdfsdf",
-      "productos_ids": [
-        1,
-        2
-      ],
-      "total_orden": 33500,
-      "total_produccion": 15000,
-      "ganancia": 15000,
-      "abono": 0,
-      "fecha_limite": "",
-      "fecha_entrada_pedido": "2025-10-09T22:11",
-      "estado_proceso": "Diseño en Curso",
-      "prioridad": "baja",
-      "incluye_delivery": true,
-      "tipo_material": "",
-      "medidas_diseno": "",
-      "requiere_troquelado": false,
-      "valor_extra": 0
     }
   ],
   "materiales": [
