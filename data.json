@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:22:22.866Z",
+    "ultima_actualizacion": "2025-10-10T03:22:40.903Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -94,11 +94,11 @@
         1
       ],
       "total_orden": 33500,
-      "total_produccion": 15000,
-      "ganancia": 15000,
+      "total_produccion": 10000,
+      "ganancia": 20000,
       "abono": 25000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-10T00:21",
+      "fecha_entrada_pedido": "2025-10-10T03:21",
       "estado_proceso": "Entregado",
       "prioridad": "alta",
       "incluye_delivery": true,
