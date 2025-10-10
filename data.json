@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:32:07.129Z",
+    "ultima_actualizacion": "2025-10-10T03:32:24.636Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -89,26 +89,16 @@
       "id": "20251010-0001",
       "cliente_id": 2,
       "descripcion": "Se crea un diseño básico a opción de 3 cambios Bordes celeste con letras color negra de acuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48 desea 2 metro de 6x6",
-      "productos": [
-        {
-          "id": 2,
-          "cantidad": 1,
-          "precio_unitario": 10000,
-          "costo_unitario": 0
-        },
-        {
-          "id": 1,
-          "cantidad": 2,
-          "precio_unitario": 10000,
-          "costo_unitario": 5000
-        }
+      "productos_ids": [
+        2,
+        1
       ],
       "total_orden": 33500,
       "total_produccion": 10000,
       "ganancia": 20000,
       "abono": 25000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-10T03:21",
+      "fecha_entrada_pedido": "2025-10-10T06:21",
       "estado_proceso": "Entregado",
       "prioridad": "alta",
       "incluye_delivery": true,
