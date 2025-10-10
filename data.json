@@ -30,7 +30,7 @@
   "clientes": [
     {
       "id": 1,
-      "nombre": "Pamela ",
+      "nombre": "Pamela",
       "apellido": "Gonzalez Ruiz",
       "email": "",
       "telefono": "56949207128",
@@ -49,7 +49,7 @@
     {
       "id": 1,
       "nombre": "Stikers",
-      "descripcion": "Sitikers troquelados",
+      "descripcion": "Stikers troquelados",
       "precio_venta": 10000,
       "costo_produccion": 5000,
       "categoria": "producto"
@@ -57,7 +57,7 @@
     {
       "id": 2,
       "nombre": "Diseños",
-      "descripcion": "Se crea un diseño básico a opción de 3 cambios \n",
+      "descripcion": "Se crea un diseño básico a opción de 3 cambios",
       "precio_venta": 10000,
       "costo_produccion": 0,
       "categoria": "servicio"
@@ -67,31 +67,46 @@
     {
       "id": "20251008-0001",
       "cliente_id": 1,
-      "descripcion": "Relizacion de Stikers de 2 medidas",
-      "productos_ids": [
-        1
+      "descripcion": "Realización de Stikers de 2 medidas",
+      "productos": [
+        {
+          "id": 1,
+          "cantidad": 1,
+          "precio_unitario": 10000,
+          "costo_unitario": 5000
+        }
       ],
-      "total_orden": 23500,
-      "total_produccion": 10000,
-      "ganancia": 10000,
+      "total_orden": 13500,
+      "total_produccion": 5000,
+      "ganancia": 8500,
       "abono": 10000,
       "fecha_limite": "2025-10-10",
       "fecha_entrada_pedido": "2025-10-08T13:00",
       "estado_proceso": "Entregado",
       "prioridad": "alta",
       "incluye_delivery": true,
-      "tipo_material": "PVC Adhesivo ",
-      "medidas_diseno": "7x7 ",
+      "tipo_material": "PVC Adhesivo",
+      "medidas_diseno": "7x7",
       "requiere_troquelado": true,
       "valor_extra": 0
     },
     {
       "id": "20251010-0001",
       "cliente_id": 2,
-      "descripcion": " Se crea un diseño básico a opción de 3 cambios Bordes celeste con letras color negra de acuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48 desea 2 metro de 6x6",
-      "productos_ids": [
-        2,
-        1
+      "descripcion": "Se crea un diseño básico a opción de 3 cambios Bordes celeste con letras color negra de acuerdo al fondo realizar el diseño en la parte de arriba le coloca juan 6:48 desea 2 metro de 6x6",
+      "productos": [
+        {
+          "id": 2,
+          "cantidad": 1,
+          "precio_unitario": 10000,
+          "costo_unitario": 0
+        },
+        {
+          "id": 1,
+          "cantidad": 2,
+          "precio_unitario": 10000,
+          "costo_unitario": 5000
+        }
       ],
       "total_orden": 33500,
       "total_produccion": 10000,
@@ -102,7 +117,7 @@
       "estado_proceso": "Entregado",
       "prioridad": "alta",
       "incluye_delivery": true,
-      "tipo_material": "PVC Adhesivo ",
+      "tipo_material": "PVC Adhesivo",
       "medidas_diseno": "6x6",
       "requiere_troquelado": true,
       "valor_extra": 0
@@ -111,9 +126,22 @@
   "materiales": [
     {
       "id": 1,
-      "nombre": "PVC Adhesivo ",
+      "nombre": "PVC Adhesivo",
       "notas": "Para stikers o vidrios"
     }
   ],
-  "proveedores": []
+  "proveedores": [
+    {
+      "id": 1,
+      "empresa": "Proveedor de Materiales ABC",
+      "contacto": "Juan Pérez",
+      "cargo": "Vendedor",
+      "email": "ventas@proveedorabc.cl",
+      "telefono": "56912345678",
+      "telefono_fijo": "222345678",
+      "whatsapp": "56912345678",
+      "direccion": "Av. Principal 123, Santiago",
+      "productos": "PVC adhesivo, vinilos, materiales de impresión"
+    }
+  ]
 }
