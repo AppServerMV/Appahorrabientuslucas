@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:22:40.903Z",
+    "ultima_actualizacion": "2025-10-10T03:31:22.621Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -133,15 +133,15 @@
   "proveedores": [
     {
       "id": 1,
-      "empresa": "Proveedor de Materiales ABC",
-      "contacto": "Juan Pérez",
-      "cargo": "Vendedor",
-      "email": "ventas@proveedorabc.cl",
-      "telefono": "56912345678",
-      "telefono_fijo": "222345678",
-      "whatsapp": "56912345678",
-      "direccion": "Av. Principal 123, Santiago",
-      "productos": "PVC adhesivo, vinilos, materiales de impresión"
+      "empresa": "World Grafic",
+      "contacto": "Henry Barcenas",
+      "cargo": "jefe",
+      "email": "worldgrafic2024.cl@gmail.com",
+      "telefono": "56934366196",
+      "telefono_fijo": "56978237034",
+      "whatsapp": "56934366196",
+      "direccion": "Arturo Prat 242 Local 33-35",
+      "productos": "Impresion de flyers, telas PVC , adhesivo, rotulación vehículo, tarjetas de visitas entre otros"
     }
   ]
 }
