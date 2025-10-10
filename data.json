@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:21:55.147Z",
+    "ultima_actualizacion": "2025-10-10T03:22:22.866Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -59,7 +59,7 @@
       "nombre": "Diseños",
       "descripcion": "Se crea un diseño básico a opción de 3 cambios \n",
       "precio_venta": 10000,
-      "costo_produccion": 5000,
+      "costo_produccion": 0,
       "categoria": "servicio"
     }
   ],
