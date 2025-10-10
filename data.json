@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:18:21.247Z",
+    "ultima_actualizacion": "2025-10-10T03:18:57.619Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -71,15 +71,15 @@
       "productos_ids": [
         1
       ],
-      "total_orden": 20000,
+      "total_orden": 23500,
       "total_produccion": 10000,
       "ganancia": 10000,
       "abono": 10000,
       "fecha_limite": "2025-10-10",
-      "fecha_entrada_pedido": "2025-10-08T10:00",
+      "fecha_entrada_pedido": "2025-10-08T13:00",
       "estado_proceso": "Entregado",
       "prioridad": "alta",
-      "incluye_delivery": false,
+      "incluye_delivery": true,
       "tipo_material": "PVC Adhesivo ",
       "medidas_diseno": "7x7 ",
       "requiere_troquelado": true,
