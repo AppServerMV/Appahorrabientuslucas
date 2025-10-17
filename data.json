@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T19:44:05.806Z",
+    "ultima_actualizacion": "2025-10-17T19:44:36.583Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -148,7 +148,7 @@
     {
       "id": "20251017-0002",
       "cliente_id": 4,
-      "descripcion": "1 metro de sticker troquelados ",
+      "descripcion": "2 metro de sticker troquelados ",
       "productos_ids": [
         1
       ],
@@ -157,7 +157,7 @@
       "ganancia": 5000,
       "abono": 0,
       "fecha_limite": "2025-10-18",
-      "fecha_entrada_pedido": "2025-10-17T19:33",
+      "fecha_entrada_pedido": "2025-10-17T22:33",
       "estado_proceso": "Diseño en Curso",
       "prioridad": "alta",
       "incluye_delivery": true,
