@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T18:10:50.848Z",
+    "ultima_actualizacion": "2025-10-17T18:12:23.725Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -113,6 +113,25 @@
       "tipo_material": "PVC Adhesivo",
       "medidas_diseno": "6x6",
       "requiere_troquelado": true,
+      "valor_extra": 0
+    },
+    {
+      "id": "20251017-0001",
+      "cliente_id": 3,
+      "descripcion": "2 metro de adhesivo troquelados de 5cm y rectangulares",
+      "productos_ids": [],
+      "total_orden": 0,
+      "total_produccion": 0,
+      "ganancia": 0,
+      "abono": 0,
+      "fecha_limite": "",
+      "fecha_entrada_pedido": "2025-10-17T15:11",
+      "estado_proceso": "Diseño en Curso",
+      "prioridad": "media",
+      "incluye_delivery": false,
+      "tipo_material": "",
+      "medidas_diseno": "",
+      "requiere_troquelado": false,
       "valor_extra": 0
     }
   ],
