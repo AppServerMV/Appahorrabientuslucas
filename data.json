@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T18:17:30.610Z",
+    "ultima_actualizacion": "2025-10-17T19:32:17.084Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -51,6 +51,14 @@
       "email": "ignacio2010177@gmail.com",
       "telefono": "941527120 ",
       "direccion": ""
+    },
+    {
+      "id": 4,
+      "nombre": " Carlos ",
+      "apellido": "Lamon",
+      "email": "",
+      "telefono": "9 9132 0415  ",
+      "direccion": "Avenida guanaco 2795 recoleta"
     }
   ],
   "productos": [
