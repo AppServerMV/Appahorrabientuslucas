@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-10T03:36:05.032Z",
+    "ultima_actualizacion": "2025-10-17T18:10:50.848Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -43,6 +43,14 @@
       "email": "luiscastro2330@gmail.com",
       "telefono": "56944795483",
       "direccion": "Baños morales 11524 El bosque"
+    },
+    {
+      "id": 3,
+      "nombre": "Agustín Ignacio ",
+      "apellido": " Pino Orellana ",
+      "email": "ignacio2010177@gmail.com",
+      "telefono": "941527120 ",
+      "direccion": ""
     }
   ],
   "productos": [
