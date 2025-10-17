@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T18:16:54.901Z",
+    "ultima_actualizacion": "2025-10-17T18:17:30.610Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -128,12 +128,12 @@
       "ganancia": 25000,
       "abono": 0,
       "fecha_limite": "",
-      "fecha_entrada_pedido": "2025-10-17T21:11",
+      "fecha_entrada_pedido": "2025-10-18T00:11",
       "estado_proceso": "Diseño en Curso",
       "prioridad": "media",
       "incluye_delivery": false,
-      "tipo_material": "",
-      "medidas_diseno": "",
+      "tipo_material": "PVC Adhesivo",
+      "medidas_diseno": "5x5",
       "requiere_troquelado": true,
       "valor_extra": 5000
     }
