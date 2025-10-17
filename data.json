@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T18:12:56.983Z",
+    "ultima_actualizacion": "2025-10-17T18:16:54.901Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -119,20 +119,23 @@
       "id": "20251017-0001",
       "cliente_id": 3,
       "descripcion": "2 metro de adhesivo troquelados de 5cm y rectangulares",
-      "productos_ids": [],
-      "total_orden": 0,
-      "total_produccion": 0,
-      "ganancia": 0,
+      "productos_ids": [
+        1,
+        2
+      ],
+      "total_orden": 35000,
+      "total_produccion": 10000,
+      "ganancia": 25000,
       "abono": 0,
       "fecha_limite": "",
-      "fecha_entrada_pedido": "2025-10-17T18:11",
+      "fecha_entrada_pedido": "2025-10-17T21:11",
       "estado_proceso": "Diseño en Curso",
       "prioridad": "media",
       "incluye_delivery": false,
       "tipo_material": "",
       "medidas_diseno": "",
       "requiere_troquelado": true,
-      "valor_extra": 0
+      "valor_extra": 5000
     }
   ],
   "materiales": [
