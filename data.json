@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T19:32:38.984Z",
+    "ultima_actualizacion": "2025-10-17T19:34:20.522Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -144,6 +144,27 @@
       "medidas_diseno": "5x5",
       "requiere_troquelado": true,
       "valor_extra": 5000
+    },
+    {
+      "id": "20251017-0002",
+      "cliente_id": 4,
+      "descripcion": "1 metro de sticker troquelados ",
+      "productos_ids": [
+        1
+      ],
+      "total_orden": 13500,
+      "total_produccion": 5000,
+      "ganancia": 5000,
+      "abono": 0,
+      "fecha_limite": "2025-10-18",
+      "fecha_entrada_pedido": "2025-10-17T16:33",
+      "estado_proceso": "Diseño en Curso",
+      "prioridad": "alta",
+      "incluye_delivery": true,
+      "tipo_material": "PVC Adhesivo",
+      "medidas_diseno": "20x9",
+      "requiere_troquelado": true,
+      "valor_extra": 0
     }
   ],
   "materiales": [
