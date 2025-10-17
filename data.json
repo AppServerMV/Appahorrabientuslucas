@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2025-10-17T18:12:23.725Z",
+    "ultima_actualizacion": "2025-10-17T18:12:56.983Z",
     "version_esquema": "2.3"
   },
   "configuracion": {
@@ -125,13 +125,13 @@
       "ganancia": 0,
       "abono": 0,
       "fecha_limite": "",
-      "fecha_entrada_pedido": "2025-10-17T15:11",
+      "fecha_entrada_pedido": "2025-10-17T18:11",
       "estado_proceso": "Diseño en Curso",
       "prioridad": "media",
       "incluye_delivery": false,
       "tipo_material": "",
       "medidas_diseno": "",
-      "requiere_troquelado": false,
+      "requiere_troquelado": true,
       "valor_extra": 0
     }
   ],
